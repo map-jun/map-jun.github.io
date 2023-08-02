@@ -17,43 +17,40 @@ sidebar-category:
     children:
     - title: "📁 수리통계학"
       url: /mathematical_statistics/
-      category: "mathematical_statistics"
+      category: "수리통계학"
       
     - title: "📁 회귀분석"
-      url: /regression/
-      category: "regression"
+      url: /regression_analysis/
+      category: "회귀분석"
 
     - title: "📁 선형대수학"
       url: /linear_algebra/
-      category: "linear_algebra"
+      category: "선형대수학"
   
   - title: "Python"
     children:
     - title: "📁 데이터 전처리"
       url: /python_data_preprocessing/
-      category: "python_data_preprocessing"
+      category: "Python 데이터 전처리"
 
     - title: "📁 시각화"
       url: /python_visualization/
-      category: "python_visualization"
+      category: "Python 시각화"
 
     - title: "📁 데이터 분석"
       url: /python_data_analysis/
-      category: "python_data_analysis"
+      category: "Python 데이터 분석"
 
-  - title: "R programming"
+  - title: "R 프로그래밍"
     children:
     - title: "📁 데이터 전처리"
       url: /r_data_preprocessing/
-      category: "r_data_preprocessing"
+      category: "R 데이터 전처리"
       
     - title: "📁 시각화"
       url: /r_visualization/
-      category: "r_visualization"
+      category: "R 시각화"
 
     - title: "📁 데이터 분석"
       url: /r_data_analysis/
-      category: "r_data_analysis"
-
-#  - title: "Posts"
-#    url: /posts/
+      category: "R 데이터 분석"

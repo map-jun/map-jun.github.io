@@ -18,5 +18,5 @@ sidebar:
 
 ## 포스팅 항목
 
-{% assign posts = site.categories.['mathematical_statistics'] %}
+{% assign posts = site.categories.['수리통계학'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

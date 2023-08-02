@@ -18,5 +18,5 @@ sidebar:
 
 ## 포스팅 항목
 
-{% assign posts = site.categories.['linear_algebra'] %}
+{% assign posts = site.categories.['선형대수학'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
