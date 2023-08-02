@@ -18,5 +18,5 @@ sidebar:
 
 ## 포스팅 항목
 
-{% assign posts = site.categories.['r_visualization'] %}
+{% assign posts = site.categories.['R 시각화'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

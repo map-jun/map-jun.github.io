@@ -18,5 +18,5 @@ sidebar:
 
 ## 포스팅 항목
 
-{% assign posts = site.categories.['python_data_preprocessing'] %}
+{% assign posts = site.categories.['Python 데이터 전처리'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

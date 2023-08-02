@@ -1,7 +1,7 @@
 ---
 title: 회귀분석(regression analysis)
 layout: single
-permalink: /regression/
+permalink: /regression_analysis/
 author_profile: true
 sidebar:
     nav: "sidebar-category"
@@ -18,5 +18,5 @@ sidebar:
 
 ## 포스팅 항목
 
-{% assign posts = site.categories.['regression_analysis'] %}
+{% assign posts = site.categories.['회귀분석'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
