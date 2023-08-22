@@ -18,5 +18,5 @@ sidebar:
 
 ## 포스팅 항목
 
-{% assign posts = site.categories.['Python 데이터 분석'] %}
+{% assign posts = site.categories.['데이터사이언스 개념'] %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
