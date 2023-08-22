@@ -13,8 +13,12 @@ sidebar-category:
       url: /특수대학원/
       category: "특수대학원"
 
-  - title: "Statistics"
+  - title: "Theory"
     children:
+    - title: "📓 데이터사이언스 개념"
+      url: /data_science_concept/
+      category: "데이터사이언스 개념"
+
     - title: "📁 수리통계학"
       url: /mathematical_statistics/
       category: "수리통계학"
