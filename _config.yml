@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-KR"
 title                    : "맵준.com"
 title_separator          : "|"
-subtitle                 : "데이터 분석 & 인공지능 공부 기록"
+subtitle                 : "맵준의 기술블로그 - 데이터 분석 & 인공지능 공부 기록"
 name                     : "MapJun"
 description              : "맵준의 기술블로그 - MapJun.com"
 url                      : "https://map-jun.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "맵준(MapJun)"
   avatar           : "/assets/images/세로 색깔.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "맵준의 기술 블로그 <br><br> 실력과 생산성을 끌어올려 <br> 삶을 완벽히 통제하고 <br> 꼭 남에게 베풀고 싶습니다."
+  bio              : "실력과 생산성을 끌어올려 <br> 삶을 완벽히 통제하고 <br> 꼭 남에게 베풀고 싶습니다."
   location         : "South Korea"
   email            : # "jobsenior25@gmail.com"
   links:
