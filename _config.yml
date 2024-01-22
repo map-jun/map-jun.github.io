@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-KR"
 title                    : "맵준.com"
 title_separator          : "|"
-subtitle                 : "맵준의 기술블로그 - 데이터 분석 분야 특수대학원 진학 tip 공유용 블로그"
+subtitle                 : "맵준의 블로그 - 데이터 분석 특수대학원 진학 tip 공유용 블로그"
 name                     : "MapJun"
-description              : "맵준의 기술블로그 - MapJun.com"
+description              : "맵준의 블로그 - MapJun.com"
 url                      : "https://map-jun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/map-jun/map-jun.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "맵준(MapJun)"
   avatar           : "/assets/images/세로 색깔.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "실력과 생산성을 끌어올려 <br> 삶을 완벽히 통제하고 <br> 꼭 남에게 베풀고 싶습니다."
+  bio              : "실력과 생산성을 끌어올려 <br> 삶을 완벽히 통제하고 <br> 꼭 남에게 베풀고 싶습니다. <br> <br> 데이터 분석 분야 특수대학원 <br> 관련 진학 tip을 공유하고 <br> 있습니다."
   location         : "South Korea"
   email            : # "jobsenior25@gmail.com"
   links:
